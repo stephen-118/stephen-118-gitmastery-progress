@@ -329,5 +329,14 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787622583.13101,
+    "completed_at": 1787622585.655649,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
   }
 ]
